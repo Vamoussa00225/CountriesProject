@@ -1,1 +1,1 @@
-countriesinfos.com
+$ dig countriesinfos.com +nostats +nocomments +nocmd
