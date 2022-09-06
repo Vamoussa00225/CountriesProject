@@ -1,1 +1,1 @@
-countriesapp.com
+$ dig countriesapp.com +nostats +nocomments +nocmd
