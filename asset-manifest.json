@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CountriesProject/static/css/main.2f09cd56.css",
+    "main.js": "/CountriesProject/static/js/main.e4149608.js",
+    "static/media/main.jpg": "/CountriesProject/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/CountriesProject/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/CountriesProject/index.html",
+    "main.2f09cd56.css.map": "/CountriesProject/static/css/main.2f09cd56.css.map",
+    "main.e4149608.js.map": "/CountriesProject/static/js/main.e4149608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f09cd56.css",
+    "static/js/main.e4149608.js"
+  ]
+}
